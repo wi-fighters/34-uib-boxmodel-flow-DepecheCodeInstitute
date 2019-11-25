@@ -1,3 +1,16 @@
 .esports-info {
+  border: thin solid black;
   display: inline-block;
+  overflow: auto;
+  /* auto scrolls as necessary */
+  width: 65vh;
+  height: 50vh;
 }
+
+.esports-info-img {
+  width: inherit;
+  height: auto;
+  /* set height to auto to avoid img distortion; but the images aren't all the same size now... */
+}
+
+
