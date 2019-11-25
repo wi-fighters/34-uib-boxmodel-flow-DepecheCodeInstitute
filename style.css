@@ -13,4 +13,13 @@
   /* set height to auto to avoid img distortion; but the images aren't all the same size now... */
 }
 
+.dota-tournament-img {
+  width: 65vh;
+  height: auto;
+  float: left;
+}
+
+.esports-tournaments {
+  height: 50vh;
+}
 
